@@ -11,8 +11,8 @@ This Spring Boot application connects to the https://date.nager.at/Api API to fe
 1. Clone the repository (or create a new project).
    
 2. Run the Spring Boot application:
-If you're using an IDE (like IntelliJ IDEA or Eclipse), simply run the AssignmentApplication class.
-Or use the terminal: mvn spring-boot:run
+If you're using an IDE (like IntelliJ IDEA or Eclipse), simply run the **AssignmentApplication class**.
+Or use the terminal: **mvn spring-boot:run**
 
 3. Test the endpoints using a tool like Postman or your browser:
 
